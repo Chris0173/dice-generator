@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    text-shadow: 0cqh;
+    color: rgb(0, 0, 3);
+    font-size: 50px;
+}
+
+h4 {
+    text-align: center;
+    color: rgb(8, 92, 117);
+    font-size: 20px;
+}
+
+html {
+    background-color: burlywood;
+}
+
+button {
+    color: aqua;
+    background-color: black;
+}
+
+p {
+    font-size: xx-large;
+    color: black;
+    text-align: center;
+}
+
+header {
+    background-color: rgb(144, 172, 172);
+    margin: 100px;
+}
+
+.buttons {
+    text-align: center;
+}
